@@ -1,7 +1,7 @@
 # Currency Converter Application
 
 ## Overview
-This is a simple JavaFX-based currency converter application.
+Description: A simple yet effective currency converter application built using JavaFX. This application allows users to seamlessly convert currencies with a clean and intuitive interface. It utilizes an updated API to fetch the most current currency exchange rates of the day, parsing the API's JSON response to perform accurate and reliable conversions.
 
 <img width="345" alt="Screenshot 2024-11-19 at 09 58 44" src="https://github.com/user-attachments/assets/c22bb8c6-f06c-40c3-8837-d00429fe637b">
 <img width="345" alt="Screenshot 2024-11-19 at 09 59 27" src="https://github.com/user-attachments/assets/26a021f1-ff52-43e6-bdf3-313db2aa8936">
