@@ -3,6 +3,11 @@
 ## Overview
 This is a simple JavaFX-based currency converter application.
 
+<img width="349" alt="Screenshot 2024-11-19 at 09 58 44" src="https://github.com/user-attachments/assets/0be01972-10e8-4a5a-b8b0-40a35ce34ad1">
+
+<img width="349" alt="Screenshot 2024-11-19 at 09 59 27" src="https://github.com/user-attachments/assets/636b11b0-2332-4200-acfd-bcabbc1660e3">
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -23,3 +28,4 @@ chmod +x run.sh
    ./run.sh
 
 or with sh run.sh in its directory.
+
