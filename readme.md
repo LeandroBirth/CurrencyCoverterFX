@@ -3,9 +3,9 @@
 ## Overview
 This is a simple JavaFX-based currency converter application.
 
-<img width="349" alt="Screenshot 2024-11-19 at 09 58 44" src="https://github.com/user-attachments/assets/0be01972-10e8-4a5a-b8b0-40a35ce34ad1">
+<img width="345" alt="Screenshot 2024-11-19 at 09 58 44" src="https://github.com/user-attachments/assets/c22bb8c6-f06c-40c3-8837-d00429fe637b">
+<img width="345" alt="Screenshot 2024-11-19 at 09 59 27" src="https://github.com/user-attachments/assets/26a021f1-ff52-43e6-bdf3-313db2aa8936">
 
-<img width="349" alt="Screenshot 2024-11-19 at 09 59 27" src="https://github.com/user-attachments/assets/636b11b0-2332-4200-acfd-bcabbc1660e3">
 
 
 ## Getting Started
